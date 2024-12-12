@@ -1,4 +1,4 @@
-1. Crear repositorio local y subir a GITHUB
+1 Crear repositorio local y subir a GITHUB
 
 1. Crea una carpeta llamada UT2.1.a.
 
@@ -6,9 +6,11 @@
 ![Inicializar repositorio](./img/01.2.png)--> imagen de ejemplo, sustituye por el nombre de la imagen.
 
 3. Revisa qué rama se ha creado por defecto. ¿Desde dónde los visualizas? adjunta la imagen
-![Rama por defecto]()
+   Desde gitGraph
+![Rama por defecto](./img/01.3.png)
 
-4. Renombrar la rama por defecto a main en caso de que tenga otro nombre. adjunta un gif
+4. Renombrar la rama por defecto a main en caso de que tenga otro nombre. 
+   ![adjunta un gif](./img/01.4.gif)
 
 5. Agrega un fichero README.md.
 
